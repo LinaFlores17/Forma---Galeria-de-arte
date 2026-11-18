@@ -28,6 +28,4 @@ npm run build
 npm run preview
 ```
 
-## Despliegue en Vercel
 
-Importa el repositorio en Vercel. El framework preset es **Vite**, el comando de build `npm run build` y el directorio de salida `dist`. No se requieren variables de entorno.
